@@ -19,6 +19,7 @@
   "homepage": "https://github.com/krisna-py/socialskillz_signaling_server#readme",
   "description": "",
   "dependencies": {
+    "express": "^5.1.0",
     "socket.io": "^4.8.1"
   }
 }
